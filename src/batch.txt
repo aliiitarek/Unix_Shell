@@ -1,0 +1,14 @@
+ls
+ls -al
+ls -a -l
+
+/bin/ls -l -a
+
+
+#this is
+x=5
+echo $x
+echo 7
+echo “hell owored”
+history
+exit

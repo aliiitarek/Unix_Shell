@@ -1,0 +1,51 @@
+pwd
+ls
+cd ..
+history
+exit
+ls
+ls
+cd ..
+pwd
+exit
+/bin/ls
+/bin/hamada
+/bin/ls -l
+/bin/ls -l
+exit
+exit
+pwd
+pwd
+cd ..
+cd ..
+cd ..
+cd ..
+pwd &
+echo Hello
+ls
+ls -l
+exit
+pwd
+cd ..
+pwd
+echo Hello World
+x=5
+y=$x
+z=$y
+echo $z
+history
+exit
+exit
+cd ..
+pwd &
+echo Hello
+ls
+ls -l
+exit
+pwd
+mkdir hello
+cat log.txt
+ps -h
+
+clear
+exit
